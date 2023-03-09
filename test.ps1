@@ -1,0 +1,1 @@
+Get-ChildItem C:\Users\anhvqt | Get-FileHash | Out-File -FilePath C:\Users\anhvqt
